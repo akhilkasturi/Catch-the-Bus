@@ -5,3 +5,7 @@ and coordination in order to pass to the next level. It will be a 2D game, where
 jump, and interact with items in order to reach the end of a level and “catch the bus” to the next
 level. Players will not be able to move to the next level unless all of their team members are on
 the bus.
+
+How to Play:
+-Install Pygame: https://www.pygame.org/wiki/GettingStarted
+-Download CatchTheBus.py and run
