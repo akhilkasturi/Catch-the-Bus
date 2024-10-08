@@ -7,5 +7,5 @@ level. Players will not be able to move to the next level unless all of their te
 the bus.
 
 How to Play:
--Install Pygame: https://www.pygame.org/wiki/GettingStarted
--Download CatchTheBus.py and run
+\n-Install Pygame: https://www.pygame.org/wiki/GettingStarted
+\n-Download CatchTheBus.py and run
